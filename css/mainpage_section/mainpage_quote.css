@@ -1,5 +1,5 @@
 .tricker {
-  height: 50px;
+  height: 100px;
   overflow: hidden;
   margin: 100px auto 20px;
 }
@@ -7,7 +7,7 @@
   color: #333;
   margin: 0;
   height: 50px;
-  line-height: 26.5px;
+  line-height: 36px;
   font-size: 30px;
   text-align: center;
   transition: margin-top .3s ease;
