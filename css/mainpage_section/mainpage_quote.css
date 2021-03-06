@@ -6,8 +6,8 @@
 .tricker h2 {
   color: #333;
   margin: 0;
-  height: 50px;
-  line-height: 36px;
+  height: 100px;
+  line-height: 32px;
   font-size: 30px;
   text-align: center;
   transition: margin-top .3s ease;
