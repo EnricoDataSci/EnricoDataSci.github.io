@@ -4,7 +4,7 @@ body { margin: 0; padding: 0; background: #ffff;}
 			height: auto;
 			padding: 30px;
 			background: #fbfbfb;
-			margin: 50px auto;
+			margin: 30px auto;
       border-radius: 5px;
 		}
 		.container {
@@ -34,4 +34,15 @@ body { margin: 0; padding: 0; background: #ffff;}
 
 .box h2 {
 		text-align: center;
+}
+
+h2.bold {
+	font-weight: bold;
+	text-align: center;
+}
+
+.div_buttons {
+	margin-top: 50px;
+	margin-bottom: 50px;
+	float: right;
 }

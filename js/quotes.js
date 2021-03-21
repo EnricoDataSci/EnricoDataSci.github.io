@@ -1,5 +1,5 @@
 $(document).ready(function(){
-  var duration = 6000;  // change this to change rotation time in milliseconds
+  var duration = 3100;  // change this to change rotation time in milliseconds
   var current = 1;
   var tricker = $(".tricker");
   var height = tricker.height();
