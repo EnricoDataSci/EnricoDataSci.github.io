@@ -91,7 +91,7 @@ details[open] > summary {
     .skill {
         margin-bottom: 35px;
         position: relative;
-			overflow-x:hidden;
+		  	overflow-x:hidden;
 
     }
     .skill > p {
@@ -154,7 +154,7 @@ details[open] > summary {
 
     /* SKILL 4 */
     .skill4{
-        width: 80%
+        width: 85%
     }
 
     .skill4 .skill-count4 {
