@@ -1,16 +1,17 @@
 body { margin: 0; padding: 0; background: #ffff;}
 		.box {
-			width: 592px;
+			width: 690px;
 			height: auto;
 			padding: 30px;
 			background: #fbfbfb;
-			margin: 25px;
       border-radius: 5px;
+			text-align: center;
 		}
 		.container {
 			width: 592px;
 			height: auto;
 			overflow: hidden;
+			margin: 25px;
       border-radius: 3px;
 		}
 		ul#spin {
@@ -31,11 +32,6 @@ body { margin: 0; padding: 0; background: #ffff;}
       border-radius: 3px;
       margin-right: 10px;
 		}
-
-.box h2 {
-		width: 580px;
-		text-align: center;
-}
 
 .div_buttons {
 	margin-top: 50px;
