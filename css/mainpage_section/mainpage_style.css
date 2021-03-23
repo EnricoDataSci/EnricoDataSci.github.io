@@ -33,8 +33,8 @@ body { margin: 0; padding: 0; background: #ffff;}
 		}
 
 .box h2 {
-		margin-left: 188px;
-		font-weight: bold;
+		width: 580px;
+		text-align: center;
 }
 
 .div_buttons {
