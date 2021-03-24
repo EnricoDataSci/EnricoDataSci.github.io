@@ -4,7 +4,7 @@ p {
 }
 
 img.aboutme {
-  width: 55%;
+  width: 60%;
   height: 100%;
   background-size: cover;
   display: block;
@@ -13,7 +13,17 @@ img.aboutme {
   -moz-border-radius: 10%;
 }
 
-table, th, td {
+table, th {
   width: 100%;
   border: solid white;
+}
+
+td div
+{
+    position:absolute;
+    top:0;
+}
+td
+{
+    position:relative;
 }
