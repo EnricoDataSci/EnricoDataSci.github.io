@@ -75,10 +75,12 @@
 }
  button:hover .circle {
 	 width: 100%;
+   background-color: #4CAF50;
 }
  button:hover .circle .icon.arrow {
 	 background: #fff;
 	 transform: translate(1rem, 0);
+
 }
  button:hover .button-text {
 	 color: #fff;
